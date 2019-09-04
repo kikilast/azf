@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "af.zip",
+    "azureFunctions.pythonVenv": "py3env",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack",
+    "python.pythonPath": "py3env\\Scripts\\python.exe"
+}
